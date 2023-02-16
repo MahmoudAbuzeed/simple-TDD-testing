@@ -8,3 +8,11 @@
     - Refactor the code logic
     - Run the test cases again and so on
 
+
+
+# Quick Start
+    - For running the code base 
+      - npm start
+
+    - For running the tests
+      - npm test
